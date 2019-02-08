@@ -1,24 +1,30 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
+This is my first semester in RCOS, so I spent most of the first few weeks getting set up. This included:
 
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+* Attending Git Workshop, learning git, practicing it extensively
+* Setting up Petitions site locally
+* Setting up Elections site locally
+* Beginning to learn Django (used on Petitions site)
+
+I began to make some progress on these projects as well:
+
+* Opened PR for text changes for upcoming elections (https://github.com/wtg/elections/pull/98)
+* Reviewed Petitions wiki and opened issue for broken links (https://github.com/wtg/petitions-rewrite/issues/21)
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
+My plans for this week:
 
-> After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
-> I also plan on attending the git workshop this week.
+* Finish Django tutorials
+* Review current code for petitions
+* Work with others to better understand how Elections backend works
+* Clean up issues section on Elections repo
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
+None
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+My main project will be Petitions, but I also plan to work on the Student Government Elections site (through the Web Technologies Group) as well.
